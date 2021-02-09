@@ -1,3 +1,22 @@
 p {
-  color: blue;
+  color: yellow;
+  font-size: 1em;
+}
+
+a {
+  font-size: 1em;
+  color: yellow;
+}
+.description {
+  width: 600px;
+}
+
+body {
+  background-color: #63afbf;
+}
+
+h1,
+h2 {
+  color: white;
+  font-family: "Abril Fatface", cursive;
 }
