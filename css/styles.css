@@ -15,8 +15,19 @@ body {
   background-color: #63afbf;
 }
 
-h1,
+h1 {
+  color: white;
+  font-family: "Abril Fatface", cursive;
+  font-size: 5em;
+}
 h2 {
   color: white;
   font-family: "Abril Fatface", cursive;
+  font-size: 2em;
+}
+
+.left {
+  width: 600px;
+  float: left;
+ 
 }
